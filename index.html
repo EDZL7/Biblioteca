@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Livraria Online</title>
+    <script src="js/tema.js"></script> 
     <link rel="stylesheet" href="bootstrap.min.css"> 
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -14,10 +14,12 @@
             <a class="nav-link" href="contato.html">Contato</a>
             <a class="nav-link" href="equipe.html">Equipe</a>
         </div>
+        <button class="btn btn-outline-info me-2" onclick="trocarTema()">Trocar Tema</button>
     </nav>
     <main class="container mt-4">
         <h1 class="display-4 text-primary">Bem-vindo à Livraria Online</h1>
         <p class="lead">Nosso site tem como objetivo apresentar uma vitrine digital com livros populares e facilitar o contato com a nossa equipe.</p>
+        <p class="mt-5">Explore nosso <a href="tabela.html">Catálogo de Livros</a> ou <a href="contato.html">Entre em Contato</a> conosco!</p>
     </main>
 </body>
 </html>

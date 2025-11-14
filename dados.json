@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "capa_placeholder": "https://placehold.co/50x75/0d6efd/ffffff?text=Anel"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Ficção Distópica",
+    "capa_placeholder": "https://placehold.co/50x75/dc3545/ffffff?text=1984"
+  },
+  {
+    "titulo": "A Culpa é das Estrelas",
+    "autor": "John Green",
+    "genero": "Romance Jovem Adulto",
+    "capa_placeholder": "https://placehold.co/50x75/ffc107/000000?text=Estrelas"
+  },
+  {
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Clássico Brasileiro",
+    "capa_placeholder": "https://placehold.co/50x75/198754/ffffff?text=Casmurro"
+  }
+]
